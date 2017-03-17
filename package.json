@@ -19,7 +19,8 @@
   "author": "The Wit Team <help@wit.ai>",
   "dependencies": {
     "isomorphic-fetch": "^2.2.1",
-    "uuid": "^3.0.0"
+    "uuid": "^3.0.0",
+    "xhr2": "^0.1.4"
   },
   "engines": {
     "node": ">=4.0.0"
